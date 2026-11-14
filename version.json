@@ -1,15 +1,15 @@
 {
-  "latestVersion": "1.0.6",
-  "versionCode": 7,
-  "title": "Hysab Kytab v1.0.6",
-  "message": "Gemini-style floating assistant popup for long-press Home button with zero background interruption.",
+  "latestVersion": "1.0.7",
+  "versionCode": 8,
+  "title": "Hysab Kytab v1.0.7",
+  "message": "Fixed direct APK install launch, added background download with system notification progress, and Gemini AI voice popup.",
   "changelog": [
-    "Gemini AI style floating bottom sheet popup when holding Home button",
-    "Underlying app / home screen remains visible with translucent backdrop",
-    "Live pulsing voice orb & immediate auto-recording of spoken transactions",
-    "Quick actions for balances, expenses, and transfer recording",
-    "Open Full App button to seamlessly transition to main ledger"
+    "Native Android package installer launch with zero Sharing errors",
+    "System background downloading (can minimize app without interruption)",
+    "Live progress bar in Android notification drawer",
+    "Gemini AI style floating bottom sheet popup for long-press Home button",
+    "In-app dark voice listener with extended speaking timeouts"
   ],
-  "apkUrl": "https://github.com/MAAKTHUNDER/hysab-kytab/releases/download/v1.0.6/hysab-kytab-v1.0.6.apk",
+  "apkUrl": "https://github.com/MAAKTHUNDER/hysab-kytab/releases/download/v1.0.7/hysab-kytab-v1.0.7.apk",
   "forceUpdate": false
 }
