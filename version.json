@@ -2,13 +2,13 @@
   "latestVersion": "1.0.8",
   "versionCode": 9,
   "title": "Hysab Kytab v1.0.8",
-  "message": "Official Android VoiceInteractionService & Session Bottom Sheet overlay for long-press Home button (genuine Gemini AI experience), with zero full app launches.",
+  "message": "Gemini-style Assistant bottom sheet overlay for Home button, full-speed in-app updates with instant package installer, and extended voice recognition.",
   "changelog": [
-    "Android VoiceInteractionService system overlay window",
-    "Gemini AI floating bottom sheet slides up over active apps/home screen",
-    "Tap outside or swipe down to instantly dismiss without app switching",
-    "Live pulsing mic orb with generous speaking time and instant ledger recording",
-    "Open App shortcut button to transition to full ledger"
+    "Gemini AI floating bottom sheet popup for long-press Home button",
+    "Restored high-speed direct in-app downloading (reaches 100% in ~20s)",
+    "Direct native APK package installer launch (zero Sharing errors)",
+    "No more white Google dialog with generous speaking timeouts",
+    "Screen remains visible with translucent backdrop and quick expense chips"
   ],
   "apkUrl": "https://github.com/MAAKTHUNDER/hysab-kytab/releases/download/v1.0.8/hysab-kytab-v1.0.8.apk",
   "forceUpdate": false
