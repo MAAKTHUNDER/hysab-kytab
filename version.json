@@ -1,16 +1,14 @@
 {
-  "latestVersion": "1.1.1",
-  "versionCode": 13,
-  "title": "Hysab Kytab v1.1.1",
-  "message": "High-Speed In-App Updater & Background Engine: Full line speed downloads via native Android DownloadManager, live MB/s progress, background downloading while minimized, instant already-downloaded detection, and auto-install on completion.",
+  "latestVersion": "1.1.2",
+  "versionCode": 14,
+  "title": "Hysab Kytab v1.1.2",
+  "message": "Double-Entry Accounting & Ledger Precision: Realigned Khata transfer semantics, counterparty tracking, clean starter profiles for fresh installs, and high-speed in-app updates.",
   "changelog": [
-    "Full-speed 2 MB/s+ inside-app updates powered by Android OS native DownloadManager",
-    "Background download support: Keep downloading seamlessly even when minimizing the app or turning off the screen",
-    "Live transfer speed & progress indicator showing real-time MB/s and bytes downloaded",
-    "Smart local APK detection: Instantly recognizes already-downloaded packages without re-downloading",
-    "Automatic installation: Seamlessly launches the package installer as soon as the download finishes",
-    "Enhanced Khata ledger semantics with clear From and To counterparty routing"
+    "Refined Double-Entry Khata: Automated counterparty From and To balance synchronization across all loan and settlement workflows",
+    "Clean Starter Profiles: Fresh installs launch with clean zero-balance accounts and instant readiness for personal setups",
+    "High-Speed In-App Updater: Full-speed downloads powered by native DownloadManager with background notification progress",
+    "Dynamic Ledger Integrity: Seamless balance updates and cloud backup synchronization via Google Drive"
   ],
-  "apkUrl": "https://github.com/MAAKTHUNDER/hysab-kytab/releases/download/v1.1.1/hysab-kytab-v1.1.1.apk",
+  "apkUrl": "https://github.com/MAAKTHUNDER/hysab-kytab/releases/download/v1.1.2/hysab-kytab-v1.1.2.apk",
   "forceUpdate": false
 }
